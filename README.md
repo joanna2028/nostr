@@ -94,6 +94,7 @@ Everybody runs a client. It can be a native client, a web client, etc. To publis
 - **How do I find people to follow?**
 
   First, you must know them and get their public key somehow, either by asking or by seeing it referenced somewhere. Once you're inside a Nostr social network you'll be able to see them interacting with other people and then you can also start following and interacting with these others.
+![PHOTO-2024-11-28-12-07-53](https://github.com/user-attachments/assets/b1ae8be4-dc21-45ca-b130-fdf0c7176d33)
 
 - **How do I find relays? What happens if I'm not connected to the same relays someone else is?**
 
@@ -107,7 +108,9 @@ Everybody runs a client. It can be a native client, a web client, etc. To publis
 
   The question is misleading. It assumes that relays are free dumb pipes that exist such that people can move data around through them. In this case yes, the incentives would not exist. This in fact could be said of DHT nodes in all other p2p network stacks: what incentive is there for people to run DHT nodes?
 
-- **Nostr enables you to move between server relays or use multiple relays but if these relays are just on AWS or Azure what’s the difference?**
+- **Nostr enables you to move between server relays or use multiple relays but if these relays are just on AWS or Azure what’s the difference?**![PHOTO-2024-11-28-12-09-21](https://github.com/user-attachments/assets/b4c5665c-6d3f-4acb-b9b5-b1![PHOTO-2024-11-28-12-09-00](https://github.com/user-attachments/assets/7c699fe1-46b2-4c70-a1cb-2301a7a59171)
+c9541a3e8e)
+
 
   There are literally thousands of VPS providers scattered all around the globe today, there is not only AWS or Azure. AWS or Azure are exactly the providers used by single centralized service providers that need a lot of scale, and even then not just these two. For smaller relay servers any VPS will do the job very well.
 
