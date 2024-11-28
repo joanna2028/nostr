@@ -112,9 +112,11 @@ Everybody runs a client. It can be a native client, a web client, etc. To publis
 c9541a3e8e)
 
 
-  There are literally thousands of VPS providers scattered all around the globe today, there is not only AWS or Azure. AWS or Azure are exactly the providers used by single centralized service providers that need a lot of scale, and even then not just these two. For smaller relay servers any VPS will do the job very well.
+  There are literally thousands of VPS providers scattered all around the globe today, there is not only AWS or Azure. AWS or Azure are exactly the providers used by single centralized service providers that n![PHOTO-2024-11-28-12-09-00](https://github.com/user-attachments/assets/ebc9c0ae-2e4d-4652-9146-94fa9e200fd1)
+eed a lot of scale, and even then not just these two. For smaller relay servers any VPS will do the job very well.
 
-## Protocol specification
+## Protocol specification![PHOTO-2024-11-28-12-09-21](https://github.com/user-attachments/assets/b36e6fe7-5bef-487d-a608-269bbc819726)
+
 
 See the [NIPs](https://github.com/nostr-protocol/nips) and especially [NIP-01](https://github.com/nostr-protocol/nips/blob/master/01.md) for a reasonably-detailed explanation of the protocol spec (hint: it is very short and simple).
 
